@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 451b81624b3536144916dfc76e93ac2b, type: 3}
+  m_Name: FlowerTower
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Flower
+  <Tile>k__BackingField: {fileID: 0}
+  <TileOffset>k__BackingField: {x: 0, y: -0.35, z: 0}
+  <PreviewSprite>k__BackingField: {fileID: 21300000, guid: c36a0605e95726e44bb11a86c72880e5, type: 3}
+  <UiIcon>k__BackingField: {fileID: 21300000, guid: c36a0605e95726e44bb11a86c72880e5, type: 3}
+  <GameObject>k__BackingField: {fileID: 2518153472935244374, guid: 5435bad171ffbf74aa8a3965d99c4e72, type: 3}
